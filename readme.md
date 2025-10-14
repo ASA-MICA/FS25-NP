@@ -15,6 +15,7 @@ What I plan to do in the next three years:
 1. stay alive
     1. I hope 
 1. Open a plan B bakery, just in case you know...
+1. Win Carioca play card tournament
 
 ## Let's have some mathematical formula
 
