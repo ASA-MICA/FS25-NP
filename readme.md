@@ -1,6 +1,11 @@
 ## My first markdown file
 This is a markdown file
 
+<script type="text/javascript"
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
 I like GitHub and you can find at this webpage: [GitHub] (http://github.com)
 
